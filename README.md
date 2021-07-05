@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gabriel Costa and i'm learning web development :computer:
+:computer: My name is Gabriel Costa and i'm learning web development :computer:
 
 <div  align="center"> 
  
