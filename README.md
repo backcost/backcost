@@ -7,7 +7,7 @@
 </div>
  
  
-  ![Snake animation](https://github.com/backcost/backcost/blob/main/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/backcost/backcost/blob/main/.github/workflows/main/dist/github-contribution-grid-snake.svg)
 
  
 
