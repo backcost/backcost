@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### 📖 I'm learning web development
 
 #### 💻 <a href="https://backcost.github.io/portfolio/"> Portfolio</a>
 
