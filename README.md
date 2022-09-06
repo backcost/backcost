@@ -7,7 +7,7 @@
 #### 📚 In progress...
 
 ## HackerRank:
-##### 📚 <a href="https://github.com/backcost/hackerrank-problems">Javascript</a>
+##### 📚 <a href="https://github.com/backcost/hackerrank-problems-js">Javascript</a>
 
 
 
