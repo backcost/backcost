@@ -6,7 +6,7 @@
 ## Laravel - MySQL - Bootstrap:
 #### 📚 In progress...
 
-## Node.Js - MySQL:
+## Node.Js - MSSQL:
 #### 📚 In progress...
 
 ## HackerRank:
