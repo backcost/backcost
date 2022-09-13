@@ -1,4 +1,4 @@
-## HTML - CSS -JAVASCRIPT:
+## HTML - Vanilla CSS - Vanilla JAVASCRIPT:
 #### 💻 <a href="https://backcost.github.io/arc-financas/">ARC Finanças Website</a>
 #### 💻 <a href="https://backcost.github.io/top-trumps/">Yu-Gi-Oh Top Trumps</a>
 #### 💻 <a href="https://backcost.github.io/premier-league-table/">Premier League Table</a>
