@@ -3,9 +3,6 @@
 #### 💻 <a href="https://backcost.github.io/top-trumps/">Yu-Gi-Oh Top Trumps</a>
 #### 💻 <a href="https://backcost.github.io/premier-league-table/">Premier League Table</a>
 
-## Laravel - MySQL - Bootstrap:
-#### 📚 In progress...
-
 ## Node.Js - MSSQL:
 #### 📚 In progress...
 
