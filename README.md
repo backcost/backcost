@@ -3,10 +3,10 @@
 #### 💻 <a href="https://backcost.github.io/top-trumps/">Yu-Gi-Oh Top Trumps</a>
 #### 💻 <a href="https://backcost.github.io/premier-league-table/">Premier League Table</a>
 
-## Node.Js - React - MSSQL:
+## React - Node.Js - MySQL:
 #### 📚 In progress...
 
-## React Native:
+## React Native - Node.Js - MSSQL:
 #### 📚 In progress...
 
 ## HackerRank:
